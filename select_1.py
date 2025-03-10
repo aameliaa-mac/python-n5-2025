@@ -5,4 +5,4 @@ if password == "letmein":
     print("LOGON ACCEPTED")
 
 else:
-    print("PASSWORD INCORRECT")    
+    print("PASSWORD INCORRECT")
