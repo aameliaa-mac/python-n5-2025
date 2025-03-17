@@ -1,4 +1,5 @@
 # this is an example of a fixed loop
+# lesson 306
 
 total = 0
 

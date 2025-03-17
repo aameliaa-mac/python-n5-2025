@@ -1,4 +1,5 @@
-# this is an example of a conditional loop
+# this is an example of a conditional loop 
+# lesson 306
 
 userscore = int(input("Enter your score: "))
 

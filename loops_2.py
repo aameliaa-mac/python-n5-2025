@@ -1,4 +1,4 @@
-# program 2 - predict and read (12/03/25)
+# program 2 - predict and read (12/03/25) lesson 306
 
 message = input("please enter the message to display: ")
 count = 0

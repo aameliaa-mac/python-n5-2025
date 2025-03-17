@@ -1,5 +1,5 @@
 
-# program 4 - investigate and modify (12/03/25)
+# program 4 - investigate and modify (12/03/25) lesson 306
 
 rightnumber = 11
 guess = 1

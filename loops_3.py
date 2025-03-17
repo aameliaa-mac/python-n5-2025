@@ -1,5 +1,5 @@
 
-# program 3 - investigate and modify (12/03/25)
+# program 3 - investigate and modify (12/03/25) lesson 306
 
 hour = 0
 
